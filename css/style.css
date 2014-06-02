@@ -158,6 +158,7 @@
 			.image img {
 				display: block;
 				width: 100%;
+				height: 320px
 			}
 
 			.image.featured {
