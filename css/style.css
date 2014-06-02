@@ -580,7 +580,8 @@
 		}
 
 			.dark a {
-				text-decoration: none
+				text-decoration: none;
+				color: black;
 			}
 
 			.dark .button.style2 {
