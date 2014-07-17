@@ -46,7 +46,6 @@
 		line-height: 1.25em;
 	}
 
-
 	strong, b {
 		font-weight: 900;
 		color: inherit;
@@ -57,7 +56,7 @@
 	}
 
 	a {
-		color: #C393C5;
+		color: #98c593;
 
 		-moz-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
 		-webkit-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -158,7 +157,7 @@
 			.image img {
 				display: block;
 				width: 100%;
-				height: 320px
+				height: 291px
 			}
 
 			.image.featured {
@@ -376,7 +375,7 @@
 	/* Buttons */
 
 		.button {
-			background-color: #C593C5;
+			background-color: #98c593;
 			border: 0;
 			border-radius: 3.5em;
 			color: #fff;
@@ -581,8 +580,7 @@
 		}
 
 			.dark a {
-				text-decoration: none;
-				color: black;
+				color: #fff;
 			}
 
 			.dark .button.style2 {
@@ -1251,9 +1249,6 @@
 				font-size: 0.9em;
 			}
 
-		.right{
-			float:right;
-		}
 /*********************************************************************************/
 /* Poptrox                                                                       */
 /*********************************************************************************/
