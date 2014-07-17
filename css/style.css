@@ -1395,6 +1395,9 @@
 			.poptrox-popup:hover .closer:hover {
 				opacity: 1.0;
 			}
+		.right{
+			text-align: right
+		}
 
 /*********************************************************************************/
 /* Touch Mode                                                                    */
