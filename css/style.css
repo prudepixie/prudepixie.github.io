@@ -57,6 +57,7 @@
 
 	a {
 		color: #98c593;
+		text-decoration: none;
 
 		-moz-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
 		-webkit-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -580,7 +581,13 @@
 		}
 
 			.dark a {
-				color: #fff;
+				color: #FF00C2;
+				font-weight: bold;
+				text-decoration: none;
+			}
+
+			.dark span {
+				color: #FF00C2;
 			}
 
 			.dark .button.style2 {
