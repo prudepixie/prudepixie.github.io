@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-  $(".background").delay(600).fadeIn(1200);
+  // $(".background").delay( 800 ).fadeIn(800);
 });
