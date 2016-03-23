@@ -115,7 +115,7 @@ template {
 }
 a {
     background: 0 0;
-    color: #f56e4e;
+    color: #F91E8A;
     text-decoration: none;
     font-size: inherit
 }
@@ -7337,7 +7337,7 @@ body:after {
     transition: color .25s ease
 }
 .menu-item a:hover {
-    color: #f56e4e
+    color: #F91E8A
 }
 .main-image {
     display: none
@@ -7372,7 +7372,7 @@ body:after {
     width: 33.33%;
     float: left;
     position: relative;
-    background-size: 300%;
+    background-size: 360%;
     z-index: 1
 }
 .cv-tile:after,
@@ -7697,7 +7697,7 @@ body:after {
     position: relative
 }
 .circle-progress:hover .circle-value {
-    color: #f56e4e
+    color: #F91E8A
 }
 .circle-progress-elem {
     text-align: center;
@@ -7807,7 +7807,7 @@ body:after {
     font-size: 15px;
     padding: 10px;
     border-radius: 2px;
-    color: #f56e4e;
+    color: #F91E8A;
     font-weight: 300
 }
 .language-level.language-native:after {
@@ -7868,11 +7868,11 @@ body:after {
 }
 .contacts-input:focus,
 .read-more:hover {
-    border-color: #f56e4e
+    border-color: #F91E8A
 }
 .read-more:hover {
     text-decoration: none;
-    color: #f56e4e
+    color: #F91E8A
 }
 .number {
     padding: 20px 10px;
@@ -7880,7 +7880,7 @@ body:after {
     background-color: #f7f7f7
 }
 .number:hover .number-value {
-    color: #f56e4e
+    color: #F91E8A
 }
 .number-value {
     font-size: 50px;
@@ -7927,7 +7927,7 @@ body:after {
     position: absolute;
     left: 0;
     top: 0;
-    color: #f56e4e
+    color: #F91E8A
 }
 .box-title {
     line-height: 1.4
@@ -7942,7 +7942,7 @@ body:after {
     background-color: #F7F7F7
 }
 .testimonial:hover .testimonial-name {
-    color: #f56e4e
+    color: #F91E8A
 }
 .testimonial-image {
     margin-bottom: 20px
@@ -8023,7 +8023,7 @@ textarea.contacts-input {
     bottom: 0;
     padding: 5px 15px;
     color: #fff;
-    background-color: #f56e4e;
+    background-color: #F91E8A;
     border: 1px solid #f2461e;
     font-weight: 300;
     border-radius: 2px
@@ -8058,7 +8058,7 @@ textarea.contacts-input {
     height: 8px;
     display: block;
     content: '';
-    background-color: #f56e4e;
+    background-color: #F91E8A;
     border-radius: 50%;
     left: 0;
     top: 5px
@@ -8103,7 +8103,7 @@ textarea.contacts-input {
     top: 3px;
     content: '\f00c';
     display: block;
-    color: #f56e4e;
+    color: #F91E8A;
     font-size: 9pt
 }
 .price-item.passive:before {
@@ -8142,7 +8142,7 @@ textarea.contacts-input {
     top: 0
 }
 .work-day-name:hover {
-    color: #f56e4e
+    color: #F91E8A
 }
 .work-day-name>span {
     padding: 0;
@@ -8355,8 +8355,8 @@ textarea.contacts-input {
     transition: opacity .3s ease, border-color .3s ease
 }
 .social-item a:hover {
-    color: #f56e4e;
-    border-color: #f56e4e
+    color: #F91E8A;
+    border-color: #F91E8A
 }
 .skills-content {
     padding: 20px 10pc
@@ -8382,10 +8382,10 @@ textarea.contacts-input {
     right: 0
 }
 .skills-list-item:hover .skill-title {
-    color: #f56e4e
+    color: #F91E8A
 }
 .skills-list-item:hover .skill-progress-bar {
-    background-color: #f56e4e
+    background-color: #F91E8A
 }
 .skills-list-item:hover .skill-experience {
     opacity: 1
@@ -8407,7 +8407,7 @@ textarea.contacts-input {
 .skill-experience {
     background-color: #e8e9ed;
     z-index: 2;
-    color: #f56e4e;
+    color: #F91E8A;
     opacity: 0;
     -webkit-transition: opacity .25s ease;
     -moz-transition: opacity .25s ease;
@@ -8486,7 +8486,7 @@ textarea.contacts-input {
     transition: color .3s ease, opacity .3s ease
 }
 .experience-nav:hover {
-    color: #f56e4e
+    color: #F91E8A
 }
 .experience-nav.disabled {
     opacity: .4;
